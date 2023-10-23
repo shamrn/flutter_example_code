@@ -1,0 +1,4 @@
+enum SignUpPersonalSettingsTwoStepRedirectType {
+  authSignUpPersonalSettingsThirdStepBeginnerAverage,
+  authSignUpPersonalSettingsThirdStepPro,
+}
